@@ -1,0 +1,4 @@
+10001 tcp extern ./s2 
+10002 tcp extern ./s1 
+10003 udp intern .. 
+10004 tcp intern echo 

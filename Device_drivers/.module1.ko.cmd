@@ -1,0 +1,1 @@
+cmd_/home/abhay/Desktop/CN/Device_drivers/module1.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/abhay/Desktop/CN/Device_drivers/module1.ko /home/abhay/Desktop/CN/Device_drivers/module1.o /home/abhay/Desktop/CN/Device_drivers/module1.mod.o ;  true
